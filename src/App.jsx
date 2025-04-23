@@ -28,7 +28,7 @@ function App() {
         top: 0,
         zIndex: 1000
       }}>
-        <Link to="/" style={{ color: '#fff', marginRight: 16, textDecoration: 'none' }}>
+        <Link to="/" reloadDocument style={{ color: '#fff', marginRight: 16, textDecoration: 'none' }}>
           🎬 Movie Store
         </Link>
         <Link
