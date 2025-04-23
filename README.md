@@ -7,6 +7,6 @@ npm install
 ## Step 2: run project
 npm run dev
 http://localhost:5173/
-http://localhost:5173/admin      (change price)
+http://localhost:5173/admin      (for change price)
 
 ![img structure](image.png)
