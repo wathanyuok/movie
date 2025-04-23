@@ -1,6 +1,7 @@
 ## Step 1: install project
 ```bash
 git clone https://github.com/wathanyuok/movie.git .
+cd my-app
 npm install
 
 ```
